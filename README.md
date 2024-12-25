@@ -25,6 +25,25 @@ There are 6 total Tests, each test performed three times
 ### Advice
 - If flexibility is reduced, consider flexibility improvement exercises.
 
+## Functional Reach Test (Balance)
+
+### Balance Assessment and Risk Levels
+| Measured Distance (cm) | Risk Level         |
+|-------------------------|--------------------|
+| >30                    | Pass              |
+| 25-30                  | Pass              |
+| 20-25                  | Moderate Risk     |
+| <20                    | High Risk         |
+| <18.5                  | High Risk         |
+| <15                    | High Risk         |
+
+### Guidelines
+- **Pass**: Measured distance is greater than 30 cm or between 25-30 cm, indicating good balance.
+- **Moderate Risk**: Measured distance is between 20-25 cm, suggesting the need for balance improvement exercises.
+- **High Risk**: Measured distance is below 20 cm, indicating a significant risk of balance issues.
+- **Recommendation**: Consider immediate intervention for balance and stability training if in the high-risk range.
+
+
 ## Grip of Hand (Strength)
 
 ### Age-Specific Averages and Strength Labels
