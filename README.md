@@ -87,5 +87,3 @@ There are 6 total Tests, each test performed three times
 
 **Best Reading**: Maximum time recorded during the test.
 
-
-**Best Reading**: Maximum time recorded during the test.
