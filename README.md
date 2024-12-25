@@ -69,3 +69,13 @@ There are 6 total Tests, each test performed three times
 
 **Minimum Reading**: The shortest time recorded during the test.
 
+## Time Up and Go (Ability to Move)
+| Time (s)   | Status                                      |
+|------------|---------------------------------------------|
+| <11        | Normal                                      |
+| >=11       | Musculoskeletal Disability                 |
+| >=13.5     | Risk of Fall                               |
+| >=30       | Assistance Required for Daily Activities   |
+
+**Minimum Reading**: The shortest time recorded during the test.
+
