@@ -25,7 +25,7 @@ There are 6 total Tests, each test performed three times
 ### Advice
 - If flexibility is reduced, consider flexibility improvement exercises.
 
-  ## Grip of Hand (Strength)
+## Grip of Hand (Strength)
 
 ### Age-Specific Averages and Strength Labels
 | Age (years) | Male (kg) | Female (kg) | Strength Labels                    |
