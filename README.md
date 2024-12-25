@@ -79,3 +79,10 @@ There are 6 total Tests, each test performed three times
 
 **Minimum Reading**: The shortest time recorded during the test.
 
+## Standing on One Leg with Eyes Open (Equilibrium Ability)
+| Age (years) | Target Time (s) | Risk Levels                                    |
+|-------------|-----------------|------------------------------------------------|
+| 60-79       | 70              | <20: Risk of Fall <br> <15: Risk of Locomotor Instability |
+| 80+         | 10              | <20: Risk of Fall <br> <15: Risk of Locomotor Instability |
+
+**Best Reading**: Maximum time recorded during the test.
