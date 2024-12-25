@@ -60,3 +60,12 @@ There are 6 total Tests, each test performed three times
 ### Advice
 - If muscle strength is low, consider strength training exercises to improve hand grip.
 
+## Walking Speed at 5-Meter Walk (Ability to Walk)
+| Time (s)   | Status                                      |
+|------------|---------------------------------------------|
+| <=5        | Normal                                      |
+| >5         | Unable to cross the crosswalk              |
+| >=6.2      | High Risk of Fall                          |
+
+**Minimum Reading**: The shortest time recorded during the test.
+
